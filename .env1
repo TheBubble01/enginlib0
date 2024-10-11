@@ -1,0 +1,26 @@
+BASE_URL=
+
+JWT_SECRET="TheBubble001"
+
+
+#***DATABASE*********
+DB_USERNAME="postgres"
+DB_PASSWORD="mubarak24"
+DB_NAME="enginlib_dev"
+DB_HOST="127.0.0.1"
+
+#****EMAIL CONFIG*******
+EMAIL_USER="emjaay2900@gmail.com"
+EMAIL_PASS="oxnj ttwx tead bojz"
+#The above to be replaced with the server webmail upon deployment
+#
+#Below is the example config for a server webmail
+#
+#EMAIL_HOST=smtp.yourdomain.com
+#EMAIL_PORT=465  # or 587 depending on your provider
+#EMAIL_USER=your-email@yourdomain.com
+#EMAIL_PASS=your-email-password
+#
+#******************************
+
+
